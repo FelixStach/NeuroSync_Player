@@ -1,3 +1,15 @@
+# Felix' NeuroSync Player Fork
+
+This project is forked from https://github.com/AnimaVR/NeuroSync_Player, which was archived by the owner on Jul 14, 2025.
+This fork includes minor additions:
+- script to send a single CSV shape file to UE5 (play_specific_file.py)
+- requirements.txt now includes pyinstaller
+- requirements.txt now names an older version of numpy that works well with PyInstaller
+- provides batch script for running PyInstaller
+- to avoid shipping the required default animation seperately, it is donwloaded (currently every time the program runs!)
+- icon for the executable
+
+
 # NeuroSync Player
 
 ## 29/03/2025 Update to model.pth and model.py in api's

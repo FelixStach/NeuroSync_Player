@@ -8,3 +8,5 @@ soundfile==0.13.1
 pydub==0.25.1
 scipy==1.15.2
 openai==1.75.0
+pyinstaller==6.11.1
+numpy==1.25.0
